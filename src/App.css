@@ -8,3 +8,18 @@
   transform: translateY(-5px);
   box-shadow: 0 25px 35px -12px rgba(0, 64, 0, 0.3);
 }
+.profile-card {
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.profile-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 25px 35px -12px rgba(0, 64, 0, 0.3);
+}
+
+.linkedin-btn:hover {
+  background-color: #0d9488 !important;
+  transform: scale(1.05);
+}
