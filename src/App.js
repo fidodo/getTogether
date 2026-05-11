@@ -6,35 +6,37 @@ const people = [
   {
     id: 1,
     name: "Ayokunle Ogunfododo",
-    title: "Software Engineer",
+    title: "Frontend Fullstack Focused Developer/ Enginner",
     linkedinUrl: "https://www.linkedin.com/in/ayokunle-ogunfidodo/",
     imagePath: "/ayo.jpeg",
   },
   {
     id: 2,
     name: "Mai Ali Atwa",
-    title: "Data Scientist",
+    title:
+      "System and Network Administrator with interest in iot and antenna design",
     linkedinUrl: "https://www.linkedin.com/in/mai-ali-atwa/",
     imagePath: "/mai.jpeg",
   },
   {
     id: 3,
     name: "Brenda Onglaine",
-    title: "UX Designer",
+    title:
+      "Human-Centric Finance Professional with a Focus on Service Design & Customer Experience",
     linkedinUrl: "https://www.linkedin.com/in/brendaonglaine/",
     imagePath: "/brenda.jpeg",
   },
   {
     id: 4,
     name: "Ville Kankainen",
-    title: "CTO",
+    title: "Games and Hybrid Experiences Lead",
     linkedinUrl: "https://www.linkedin.com/in/villekankainen/",
     imagePath: "/ville.jpeg",
   },
   {
     id: 5,
     name: "Evgenia Shepeneva",
-    title: "Marketing Director",
+    title: "BIM Specialist and Design Coordinator",
     linkedinUrl: "https://www.linkedin.com/in/evgenia-shepeneva/",
     imagePath: "/evgenia.jpeg",
   },
